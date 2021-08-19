@@ -9,5 +9,5 @@ One of the projects on JetBrains Academy Frontend Developer track
   
 ### Demo:  
 
-
+[https://tropnikov.github.io/virtual-piano/](https://tropnikov.github.io/virtual-piano/)
 
