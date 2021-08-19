@@ -17,17 +17,15 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /*height: 100vh;*/
   position: absolute;
-  /*top: 20px;*/
 }
 
 .black-keys kbd {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  width: 70px;
-  height: 220px;
+  width: 90px;
+  height: 260px;
   background-color: black;
   border: 3px solid black;
   border-bottom-right-radius: 5%;
@@ -36,23 +34,22 @@ body {
   font-size: 20px;
   color: white;
   position: relative;
-  top: -40px;
-  /*display: inline-block;*/
+  top: -45px;
+  box-sizing: border-box;
 }
 
 .white-keys {
   display: flex;
   align-items: center;
   justify-content: center;
-  /*height: 100vh;*/
 }
 
 .white-keys kbd {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  width: 100px;
-  height: 300px;
+  width: 120px;
+  height: 350px;
   background-color: white;
   border: 3px solid black;
   border-bottom-right-radius: 5%;
@@ -60,8 +57,21 @@ body {
   padding-bottom: 20px;
   font-size: 24px;
   font-weight: bold;
+  box-sizing: border-box;
 }
 
 #w {
-  left: -150px;
+  left: -120px;
+}
+#e {
+  left: -90px;
+}
+#t {
+  right: -60px;
+}
+#y {
+  right: -90px;
+}
+#u {
+  right: -120px;
 }
