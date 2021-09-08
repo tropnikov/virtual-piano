@@ -1,11 +1,11 @@
 # Virtual Piano 
 
-[One of the projects](https://hyperskill.org/projects/101?track=5) on JetBrains Academy Frontend Developer track.  
+[One of the projects](https://hyperskill.org/projects/101?track=5) on [JetBrains Academy](https://www.jetbrains.com/academy/) Frontend Developer track.  
 
 ### Stack:  
 * HTML
 * CSS
-* JS
+* JS: event listeners, keyboard events handling, audio objects
   
 ### Demo:  
 
